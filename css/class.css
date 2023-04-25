@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ropa+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+body {
+    
+   background-color : #EDD990; 
+
+      width: 95%%;
+}
+
+p {
+    
+    color: white;
+    font-size: 100px;
+    
+   
+}
+div {
+  display: block; 
+  position: relative
+  text-align: center;
+ 
+  width:101%;
+  margin-left: -10px;
+   padding: 1px;
+   margin-top: -10px;
+  background-color:black;
+    
+}
+h1 {
+    font-family:  'Krona One', sans-serif;
+    text-align: center;
+    font-size: 100px;
+    color: black;
+}
+
+a {
+    font-family: 'Gugi', cursive;
+    line-height: 2;
+    text-decoration: none;
+}
+.emoji {
+    display: none;
+}
+a:hover .emoji {
+    display:inline;
+}
+.text {
+   line-height: 200px;
+   color: #636159;
+    margin: 50px;
+   font-family: 'Ropa Sans', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    
+}
